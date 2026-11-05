@@ -1,0 +1,5 @@
+[
+  {"id":"refund-policy","title":"Refund policy","text":"Customers may request a refund within 30 days of purchase. Refunds are returned to the original payment method after approval."},
+  {"id":"security-guide","title":"Security guide","text":"Account passwords are stored using a salted, adaptive password hashing algorithm. Support staff cannot view a customer's plaintext password."},
+  {"id":"support-hours","title":"Support hours","text":"The support team is available Monday through Friday, 9 AM to 5 PM Eastern Time."}
+]

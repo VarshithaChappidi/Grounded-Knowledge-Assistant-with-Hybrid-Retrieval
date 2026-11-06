@@ -108,3 +108,7 @@ The optional schema is in `sql/schema.sql`. It creates a chunk table with a vect
 - TF-IDF is a lightweight vector-space baseline, not a modern semantic embedding model.
 - The evidence-coverage metric is a retrieval proxy, not a human groundedness score.
 - No customer data or external production systems are connected.
+
+## Portfolio
+
+Explore my AI engineering experience, projects, and publication on my [live portfolio](https://varshithaportfolio-ai-engineer.vercel.app).
